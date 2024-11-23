@@ -83,7 +83,7 @@ const ContactForm = () => {
             Queries?
           </h2>
           <p className="text-zinc-500 dark:text-gray-300">
-            Have a question? I'd love to hear from you.
+            Have a question? I&apos;d love to hear from you.
           </p>
         </div>
 
